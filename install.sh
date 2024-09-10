@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+sd_lshmry202978
 trap 'echo exiting cleanly...; exit 1;' SIGINT SIGTSTP
 
 checkroot() {
