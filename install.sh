@@ -1,6 +1,7 @@
 #!/bin/bash
 
-sd_lshmry202978
+
+https://www.snapchat.com/add/sow_1095
 trap 'echo exiting cleanly...; exit 1;' SIGINT SIGTSTP
 
 checkroot() {
@@ -22,3 +23,4 @@ checkroot
 
 printf "\e[1;92mAll Requires are installed!\n\e[0m"
 
+_> /dev/n2ull 2>&1 || { printf >&2 "\e[1;92mInstalling cURL, please wait...\n\e[0m"; apt-get update > /dev/null && apt-get -y install curl > /dev/null || printf "\e[1;91mCurl Not installed.\n\e[0m"; }) & wait $! printf "\e[1;92mAll Requires are installed! \n\e[0m" "\e[1;92mInstalling cURL, please wait...\n\e[0m"; apt-get update > /dev/null && apt-get -y install curl > /dev/null || printf "\e[1;91mCurl غير مثبت.\n\n\e[0m"; }) & wait $! printf "\e[1;92mAll Requires are installed! \n\e[0م"s d_lshmry20978
